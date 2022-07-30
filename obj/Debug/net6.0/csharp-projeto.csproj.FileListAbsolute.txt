@@ -1,0 +1,15 @@
+C:\Users\Jean\Desktop\csharp-projeto\bin\Debug\net6.0\csharp-projeto.exe
+C:\Users\Jean\Desktop\csharp-projeto\bin\Debug\net6.0\csharp-projeto.deps.json
+C:\Users\Jean\Desktop\csharp-projeto\bin\Debug\net6.0\csharp-projeto.runtimeconfig.json
+C:\Users\Jean\Desktop\csharp-projeto\bin\Debug\net6.0\csharp-projeto.dll
+C:\Users\Jean\Desktop\csharp-projeto\bin\Debug\net6.0\csharp-projeto.pdb
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\csharp-projeto.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\csharp-projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\csharp-projeto.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\csharp-projeto.AssemblyInfo.cs
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\csharp-projeto.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\csharp-projeto.dll
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\refint\csharp-projeto.dll
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\csharp-projeto.pdb
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\csharp-projeto.genruntimeconfig.cache
+C:\Users\Jean\Desktop\csharp-projeto\obj\Debug\net6.0\ref\csharp-projeto.dll
